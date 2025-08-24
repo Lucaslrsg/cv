@@ -3,7 +3,7 @@
 Bem-vindo ao meu repositório de currículo!  
 Aqui você encontra meu currículo em PDF e um resumo das minhas principais habilidades e experiências.  
 
-🔗 [Acesse meu currículo em PDF](./curriculo.pdf)
+🔗 [Acesse meu currículo em PDF](./curriculo_atual.pdf)
 
 ---
 
